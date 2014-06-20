@@ -1,1 +1,0 @@
-a_shfl=function(l,o){!o&&(o=7);for(;o--;){var m=l.length,M=Math,f=M.floor,r=M.random,a=f(r()*m),b=f(r()*m),t=l[a];l[a]=l[b];l[b]=t}return l}
