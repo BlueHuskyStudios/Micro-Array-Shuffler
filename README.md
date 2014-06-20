@@ -1,4 +1,4 @@
-Micro-Array-Shuffler
+Micro Array Shuffler
 ====================
 
-An array shuffler in 140 bytes
+An array shuffler in exactly 140 bytes.
